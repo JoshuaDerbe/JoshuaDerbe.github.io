@@ -1,0 +1,13 @@
+#main {
+    padding-left: 5rem;
+}
+#sidebar {
+    width: 20%;
+    float: left;
+    position: fixed;
+    top: 0;
+}
+#content {
+    width: 80%;
+    float: right;
+} 
